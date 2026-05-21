@@ -16,6 +16,7 @@ Activity tracking
 The project emphasizes relational database design, data integrity, and complex SQL reporting.
 
 🛠️ Technologies Used
+
 MySQL
 SQL
 phpMyAdmin
