@@ -68,13 +68,21 @@ Activities
 
 Shopee-Database-System/
  ├── database/
+ 
  │    ├── create_tables.sql
+ 
  │    ├── insert_data.sql
+ 
  │    ├── reports.sql
+ 
  │    └── erd.png
+ 
  ├── documentation/
+ 
  │    └── project_report.pdf
+ 
  ├── screenshots/
+ 
  ├── README.md
 
  🧠 Database Features
